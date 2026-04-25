@@ -37,7 +37,6 @@
 	&__slide.swiper-slide {
 		border-radius: 12px;
 		box-shadow: inset 0 0 0 1px #DBDBDB;
-		min-height: 361px;
 		display: flex;
 		flex-direction: column;
 		transition: all $transition;
@@ -74,7 +73,6 @@
 	}
 
 	&__slide-date {
-		align-self: center;
 		margin-top: auto;
 	}
 
